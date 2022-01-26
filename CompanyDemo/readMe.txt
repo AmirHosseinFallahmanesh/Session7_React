@@ -1,0 +1,1 @@
+dynamic nested route and dynamic generation
